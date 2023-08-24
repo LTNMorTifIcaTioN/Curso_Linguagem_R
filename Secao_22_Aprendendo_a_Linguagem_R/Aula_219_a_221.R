@@ -1,4 +1,5 @@
-# AULA 220
+#220. R-Studio, Trabalhando com operações básicas, Help do R, Trabalhando com Vetores
+
 # Aqui está uma lista resumida de algumas funções aritméticas no R:
 # sqrt() - raiz quadrada
 # abs() - valor absoluto (positivo)
