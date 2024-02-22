@@ -2,8 +2,8 @@
 
 # Objetos em R:
 # Vetores (tipo único); Matrizes (tipo único); Data Frame (misto); Listas (misto);
-Funções;
-#dados <- sin(9.7979)
+# Funções;
+dados <- sin(9.7979)
 dados
 
 dados = sin(9.7979)

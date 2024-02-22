@@ -51,3 +51,7 @@ IQR(vendas$PESOGRAMAS) # Indice Interquartil Q75%-Q25%
 var(vendas$PESOGRAMAS) # Variância
 sd(vendas$PESOGRAMAS) # Desvio Padrão
 mad(vendas$PESOGRAMAS) # desvio Absoluto Mediano
+
+save.image() # Salva o Workspace
+
+load(".RData") # Carrega o Work
