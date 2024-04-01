@@ -110,3 +110,4 @@ plot(cidadao$Idade,cidadao$Salario)
 cor(cidadao$Idade,cidadao$Salario) # correlação linear
 cor(cidadao$Idade,cidadao$Salario,method = "spearman") # correlação spearman
 cor(cidadao$Idade,cidadao$Salario,method = "pearson")
+save.image() # Salva o Workspace

@@ -47,3 +47,5 @@ rlm=lm(bovino$Percentual_proteina ~ bovino$Quantidade_Racao +
 bovino$Percentual_Carne_Magra)
 summary.aov(rlm)
 summary(rlm)
+
+save.image() # Salva o Workspace
